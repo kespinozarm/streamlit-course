@@ -1,9 +1,3 @@
-import streamlit as st
-
-st.title("Hello World!")
-import streamlit as st
-import pandas as pd
-
 # 1. Text inputs
 
 favorite_color = st.text_input("What's your favorite color:")
